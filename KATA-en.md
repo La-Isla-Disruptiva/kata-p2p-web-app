@@ -27,4 +27,6 @@ The goal of this kata is to exchange data between 2 devices that can connect to 
     - Sign a documents to proof its authenticity.
     - Encrypt a document to protect its privacy during the tansfer.
 
+## Diagrams
 
+![architecture diagrams](./doc/webTRC-p2p-qrcode.drawio.svg)
